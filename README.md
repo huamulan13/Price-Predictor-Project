@@ -40,15 +40,8 @@ Berikut adalah gambaran bagaimana data mengalir dalam sistem ini:
 
 ---
 
-## 🔧 How to Run
-Gak perlu ribet install library satu-satu, cukup jalankan perintah ini (pastikan sudah install Docker):
-
-```bash
-docker-compose up --build
-Akses aplikasi di: http://localhost:3000
-
 ##📈 Model Performance (Sisi Data Science)
-Dataset: [Sebutkan nama dataset/link Kaggle di sini]
+Dataset: 
 
 **Algorithm: Random Forest Regressor**
 
@@ -56,5 +49,11 @@ Dataset: [Sebutkan nama dataset/link Kaggle di sini]
 
 **MAE: XXXX**
 
+---
+## 🔧 How to Run
+Gak perlu ribet install library satu-satu, cukup jalankan perintah ini (pastikan sudah install Docker):
 
+```bash
+docker-compose up --build
+Akses aplikasi di: http://localhost:3000
 ---
