@@ -40,7 +40,7 @@ Berikut adalah gambaran bagaimana data mengalir dalam sistem ini:
 
 ---
 
-##📈 Model Performance (Sisi Data Science)
+## 📈 Model Performance (Sisi Data Science)
 Dataset: 
 
 **Algorithm: Random Forest Regressor**
@@ -56,4 +56,3 @@ Gak perlu ribet install library satu-satu, cukup jalankan perintah ini (pastikan
 ```bash
 docker-compose up --build
 Akses aplikasi di: http://localhost:3000
----
